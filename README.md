@@ -1,9 +1,9 @@
 ![logo](https://user-images.githubusercontent.com/68070580/132366131-07f1b293-ade4-44a2-ae54-ebb6267243a5.png)
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
-<h3 align="center">A passionate Flask developer from India</h3>
+<h3 align="center">Data Scientist</h3>
 
 <img align="right" src="https://hub.alfresco.com/t5/image/serverpage/image-id/2769iF64AA5FB5767DF53/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="coding" width="350" height="200">
-- 🌱 I’m currently learning **Flask framework**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **gupta.pragya433@gmail.com**
 
