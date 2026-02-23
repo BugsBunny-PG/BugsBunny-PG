@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gupta.pragya433@gmail.com**
 
-- 📄 Know about my experiences [[Resume link]](https://drive.google.com/drive/folders/1bx2AW9C7tsjUWXBTqDivmG_bZkfvn06c?usp=drive_link)
+- 📄 Know about my experiences [[Resume link]](https://drive.google.com/file/d/1al4KAg3AIe4OtixD_aDg9EE6jLTBlcEn/view?usp=drive_link)
 
 - ⚡ Fun fact **🌚**
 
