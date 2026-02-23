@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
 <h3 align="center">Data Scientist</h3>
 
-<img align="right" src="https://github.com/bnikitha05" alt="coding" width="350" height="200">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l1bGZpZnByd2Z0cTBiNW00dWw5Yjg0bjB5dnE2YmNjcDRzc25rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u3Gm3ACUd1T2vub6Mp/giphy.gif" alt="coding" width="350" height="200">
 - 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **gupta.pragya433@gmail.com**
