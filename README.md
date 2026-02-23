@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragya Gupta</h1>
 <h3 align="center">Data Scientist</h3>
 
-<img align="right" src="https://hub.alfresco.com/t5/image/serverpage/image-id/2769iF64AA5FB5767DF53/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="coding" width="350" height="200">
+<img align="right" src="https://share.google/lAgVqhLBd0haeA7xv" alt="coding" width="350" height="200">
 - 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **gupta.pragya433@gmail.com**
